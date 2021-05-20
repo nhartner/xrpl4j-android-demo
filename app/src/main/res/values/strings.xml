@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">xrpl4j-android-demo</string>
+  <string name="enter_seed">Enter a seed</string>
+  <string name="enter_message">Enter a message</string>
+  <string name="button_sign">Sign</string>
+  <string name="button_verify">Verify</string>
+  <string name="enter_signature">Enter a signature</string>
+</resources>
