@@ -12,7 +12,7 @@ import android.widget.EditText
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.google.common.io.BaseEncoding
-import com.ripple.xrpl4j.keypairs.Ed25519KeyPairService
+import org.xrpl.xrpl4j.keypairs.Ed25519KeyPairService
 
 class MainActivity : AppCompatActivity() {
 
